@@ -1,0 +1,13 @@
+{
+    "tabName": "Your Name",
+    "name": "Your Name",
+    "bio": "This is the beginning of your new DoLinkMe page",
+    "socialLinks": "",
+    "design": "default",
+    "effects": [
+        "blur"
+    ],
+    "adminPassword": "",
+    "profilePic": "data\/profile.jpg",
+    "tabIcon": "data\/profile.jpg"
+}
